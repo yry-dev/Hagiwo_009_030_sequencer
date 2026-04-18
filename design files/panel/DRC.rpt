@@ -1,0 +1,607 @@
+** Drc report for hagiwo_double_seq.kicad_pcb **
+** Created on 2026-04-17T22:52:35-0400 **
+
+** Found 199 DRC violations **
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(137.1292 mm, 151.8627 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 0 nm)
+    Local override; error
+    @(1648.9598 mm, 1545.4659 mm): Segment on Edge.Cuts
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
